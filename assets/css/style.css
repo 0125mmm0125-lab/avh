@@ -130,4 +130,32 @@ border:none;
 border-radius:10px;
 cursor:pointer;
 font-size:18px;
+  
+}
+.stats{
+display:flex;
+justify-content:center;
+flex-wrap:wrap;
+gap:20px;
+padding:60px 20px;
+background:#081633;
+}
+
+.stat-card{
+background:#122554;
+padding:30px;
+border-radius:15px;
+width:220px;
+text-align:center;
+}
+
+.stat-card h3{
+font-size:42px;
+margin-bottom:10px;
+color:#3b82f6;
+}
+
+.stat-card p{
+font-size:18px;
+color:#d1d5db;
 }
