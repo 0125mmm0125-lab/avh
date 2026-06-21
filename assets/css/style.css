@@ -250,4 +250,13 @@ color:white;
 }
 
 }
+a.card{
+display:block;
+text-decoration:none;
+color:inherit;
+}
+
+a.card:hover{
+transform:translateY(-5px);
+}
 
