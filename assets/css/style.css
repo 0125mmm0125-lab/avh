@@ -234,6 +234,11 @@ max-width:350px;
     justify-content:center;
     gap:10px;
 }
+    .contact-form button{
+background:#3b82f6;
+color:white;
+font-weight:bold;
+}
 
 }
 
