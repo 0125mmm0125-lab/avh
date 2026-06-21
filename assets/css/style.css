@@ -239,6 +239,15 @@ background:#3b82f6;
 color:white;
 font-weight:bold;
 }
+    .card{
+text-decoration:none;
+color:white;
+display:block;
+}
+
+.card:hover{
+color:white;
+}
 
 }
 
