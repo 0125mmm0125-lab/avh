@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://0125mmm0125-lab.github.io/avh/sitemap.xml
